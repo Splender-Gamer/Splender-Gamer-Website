@@ -1,0 +1,71 @@
+.section_background {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1
+{  
+    font-size: 40px;
+}
+#myCanvas1
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    cursor: pointer;
+}
+button {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+    cursor: pointer;
+}
+input {
+    margin-right: 20px;
+}
+.minecraft_background {
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h2
+{
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+h3
+{
+    display: inline-block;
+}
+span
+{
+    color: black;
+}
+a
+{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+#myCanvas2
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+body
+{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(14,139,79,1) 35%, rgba(0,212,255,1) 100%);
+}
